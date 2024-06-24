@@ -54,5 +54,4 @@ extract in ..xampp/htdocs and run on localhost
 upload expdb.sql file in phpmyadmin
 ```
 
-![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red?style=for-the-badge)
 
